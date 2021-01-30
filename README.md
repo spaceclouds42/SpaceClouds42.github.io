@@ -2,4 +2,4 @@
 
 My projects
 
-[FabricBuilders](https://SpaceClouds42.github.io/FabricBuilders/index.html)
+[FabricBuilders](https://SpaceClouds42.github.io/FabricBuilders/)
